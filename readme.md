@@ -177,9 +177,9 @@ text
 
 **Saket Kumar**  
 Delhi Technological University  
-📧 Email: saket.kumar@example.com  
-💼 LinkedIn: [linkedin.com/in/saketkumar](https://linkedin.com/in/saketkumar)  
-🐙 GitHub: [github.com/saketkumar](https://github.com/saketkumar)
+📧 Email: saketkumar.dtu@gmail.com
+💼 LinkedIn: [linkedin.com/in/saketkumardtu](https://linkedin.com/in/saketkumardtu)  
+🐙 GitHub: [github.com/saketdtu](https://github.com/saketdtu)
 
 ## 📄 License
 
